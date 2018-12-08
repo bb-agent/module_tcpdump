@@ -1,7 +1,7 @@
 module_tcpdump
 ===========
 
-FruityWiFi tcpdump module
+BlackBlulb tcpdump module
 
 
 v1.2
